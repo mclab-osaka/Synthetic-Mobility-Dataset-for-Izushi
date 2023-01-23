@@ -21,10 +21,10 @@ Currently (January 2023), it is scheduled for submission to IEEE Transactions on
 The dataset is a simulation of Izushi's mobility from 9:00 a.m. to 5:00 p.m. over a seven-day period from November 18, 2021 to November 24, 2021.
 
 ### Data Format
-本研究では，PTV Vissim 2022.00-04を用いてデータ出力を行った．
+本研究では，PTV Vissim 2022を用いてデータ出力を行った．
 
 
-In this study, PTV Vissim 2022.00-04 was used for data output.
+In this study, PTV Vissim 2022 was used for data output.
 
 #### network.txt
 対象地域の道路ネットワーク情報が記載されたテキストファイル．
