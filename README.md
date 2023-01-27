@@ -1,8 +1,12 @@
 ## Introduction
 我々の研究により得られた，兵庫県豊岡市出石地区を再現した車両モビリティデータセットを公開する．
 
+公開日2023年1月23日
+
 
 We present a vehicle mobility dataset obtained from our research that reproduces the Izushi district of Toyooka City, Hyogo Prefecture.
+
+Published on January 23, 2023
 
 ## Activity
 研究内容は[ここ](https://ieeexplore.ieee.org/abstract/document/9767393)から確認できる．
