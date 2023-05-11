@@ -11,7 +11,7 @@ Published on January 23, 2023
 ## Activity
 研究内容は[ここ](https://ieeexplore.ieee.org/abstract/document/9767393)から確認できる．
 <br>
-現在（2023年1月），IEEE Transactions on Intelligent Transportation Systemsに投稿予定．
+
 
 
 The research can be found [here](https://ieeexplore.ieee.org/abstract/document/9767393).
